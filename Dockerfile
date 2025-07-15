@@ -1,5 +1,5 @@
 # Python 3.7（EOL: 2023-06-27）を使用（既にサポート終了）
-FROM python:3.7
+FROM python:3.13
 
 # 作業ディレクトリを設定
 WORKDIR /app
